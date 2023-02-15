@@ -4,4 +4,4 @@ Hi! This short project was part of learning JavaScript object-oriented programmi
 
 Mapty is an amazing, simple application that enables the user to log their exercise (running or cycling) activities on a digital map like Google Maps. Enjoy seeing it at the link below! 😀
 
-Link: https://alrho-project-006-mapty.netlify.app
+Link: https://alrho-project-007-mapty.netlify.app
