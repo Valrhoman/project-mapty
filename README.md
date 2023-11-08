@@ -1,4 +1,4 @@
-# Project-Mapty
+# project-mapty
 
 Hi! This short project was part of learning JavaScript object-oriented programming, geolocation, external libraries, localStorage etc. in the Udemy course 'The Complete JavaScript Course 2023: From Zero to Expert!' by Jonas Schmedtmann. I wrote the codes by following Jonas' lectures and demos.
 
